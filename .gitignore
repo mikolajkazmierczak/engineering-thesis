@@ -1,0 +1,11 @@
+# sveltekit
+.svelte-kit
+node_modules
+build
+package
+
+# database
+data.db
+uploads
+
+_backup
