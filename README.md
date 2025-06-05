@@ -27,13 +27,17 @@ The admin panel was built to manage calculators, products, colors, categories, m
 
 The management of products, colors, categories, menus, pages and certain website fragments all happens in visually similiar panels. Products can be assigned to multiple categories and colors. You can also upload images and files.
 
-![alt text](_screenshots/widok_produkty.png)
+![product list view](_screenshots/widok_produkty.png)
 
-![alt text](_screenshots/widok_produkt_1.png)
+![single product view](_screenshots/widok_produkt_1.png)
 
-<img src="_screenshots/widok_produkt_4.jpg" alt="widok_produkty_" style="width: 80%; float: right;">
+<p align="right">
+  <img src="_screenshots/widok_produkt_4.jpg" alt="product pricing view" style="width: 80%;">
+</p>
 
-<img src="_screenshots/widok_produkt_6.png" alt="widok_produkty" style="width: 80%; float: right;">
+<p align="right">
+  <img src="_screenshots/widok_produkt_6.png" alt="product colors view" style="width: 80%;">
+</p>
 
 ![alt text](_screenshots/widok_kategorie.png)
 
@@ -59,7 +63,7 @@ Technologically, the project leverages Directus (a Backend-as-a-Service solution
 
 Architecture Diagram | Use Case Diagram
 -|-
-<img src="_screenshots/architektura.png" alt="architektura" style="width: 390px;" /> | <img src="_screenshots/usecase.jpg" alt="usecase diagram" style="width: 420px;" />
+<img src="_screenshots/architektura.png" alt="architektura" style="width: 390px;" /> | <img src="_screenshots/usecase.jpg" alt="usecase diagram" style="width: 420px;" >
 
 ### Feedback and Results
 
