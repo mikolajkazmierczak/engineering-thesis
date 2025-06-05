@@ -1,6 +1,6 @@
 # Engineering Thesis
 
-## Public website and a CMS to manage it.
+**Public website and a CMS to manage it.**
 
 This project is a web-based system designed to support product catalog management and handle customer inquiries. It consists of two main components: a public-facing website and an admin panel.
 
@@ -31,13 +31,9 @@ The management of products, colors, categories, menus, pages and certain website
 
 ![alt text](_screenshots/widok_produkt_1.png)
 
-<div style="display: flex; justify-content: right;">
-  <img src="_screenshots/widok_produkt_4.jpg" alt="widok_produkty" style="width: 80%;">
-</div><br/>
+<img src="_screenshots/widok_produkt_4.jpg" alt="widok_produkty_" style="width: 80%; float: right;">
 
-<div style="display: flex; justify-content: right;">
-  <img src="_screenshots/widok_produkt_6.png" alt="widok_produkty" style="width: 80%;">
-</div><br/>
+<img src="_screenshots/widok_produkt_6.png" alt="widok_produkty" style="width: 80%; float: right;">
 
 ![alt text](_screenshots/widok_kategorie.png)
 
@@ -61,19 +57,9 @@ The project was developed using agile methodology, with iterative feedback from 
 
 Technologically, the project leverages Directus (a Backend-as-a-Service solution) for database and API management, ensuring scalability and ease of maintenance. The frontend is built using SvelteKit, chosen for its performance and developer-friendly approach. WebSockets were also introduced (via a custom server aptly named "Heimdall") to enable real-time updates for the admin panel.
 
-<div style="display: flex; justify-content: center; align-items: baseline; gap: 5px; flex-wrap: wrap;">
-
-<figure style="margin: 0;">
-  <img src="_screenshots/architektura.png" alt="architektura" style="width: 400px;">
-  <figcaption>Architecture Diagram</figcaption>
-</figure>
-
-<figure style="margin: 0;">
-  <img src="_screenshots/usecase.jpg" alt="usecase diagram" style="width: 420px;">
-  <figcaption>Use Case Diagram</figcaption>
-</figure>
-
-</div>
+Architecture Diagram | Use Case Diagram
+-|-
+<img src="_screenshots/architektura.png" alt="architektura" style="width: 390px;" /> | <img src="_screenshots/usecase.jpg" alt="usecase diagram" style="width: 420px;" />
 
 ### Feedback and Results
 
