@@ -2,7 +2,8 @@
 
 ## "Web system supporting product catalog management and client queries"
 
-This project is a web-based system designed to support product catalog management and handle customer inquiries. It consists of two main components: a public-facing website and an admin panel.
+This project was created for [REED](https://reed.kalisz.pl/) company that specializes in comprehensive printing and advertising services.
+They needed a web-based system designed to support product catalog management and handle customer inquiries. It consists of two main components: a public-facing website and an admin panel.
 
 The system addresses the limitations of the client's existing solution, such as slow loading times, a cumbersome administrative interface, and the lack of personalized price calculators. The new system is tailored to the client's needs, with some key improvements:
 
