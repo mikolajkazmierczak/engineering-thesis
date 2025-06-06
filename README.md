@@ -1,6 +1,6 @@
 # Engineering Thesis
 
-**Public website and a CMS to manage it.**
+## "Web system supporting product catalog management and client queries"
 
 This project is a web-based system designed to support product catalog management and handle customer inquiries. It consists of two main components: a public-facing website and an admin panel.
 
